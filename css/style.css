@@ -37,3 +37,10 @@ background: linear-gradient(360deg, rgba(166,166,166,1) 41%, rgba(0,212,255,1) 1
     background-color: rgb(151, 151, 151);  
     color: rgb(22, 22, 22);
  }
+
+ /*Footer*/
+ .bgFooter{
+background-color: rgb(49, 49, 49);
+text-align: center;
+padding: 10px;
+ }
