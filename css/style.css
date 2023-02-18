@@ -1,0 +1,46 @@
+/*banner*/
+.imgBanner{
+    min-height: 200px;
+    max-height: 400px;
+    object-fit: cover;
+}
+.containerImgBanner{
+width: 100%;
+
+}
+
+/*card pokemons*/
+.cardTamanio{
+    width: 250px;
+}
+.bgPlanta{
+background-color: rgb(59, 252, 53);
+}
+.bgVeneno{
+background-color: rgb(162, 53, 252);
+}
+.bgFuego{
+    background-color: rgb(255, 92, 33);
+}
+.bgVolador{
+    color: black;
+    background: rgb(166,166,166);
+background: linear-gradient(360deg, rgba(166,166,166,1) 41%, rgba(0,212,255,1) 100%);   
+}
+.bgAgua{
+   background-color: rgb(4, 127, 228);  
+}
+.bgBicho{
+    background-color: rgb(43, 173, 54);  
+ }
+.bgNormal{
+    background-color: rgb(151, 151, 151);  
+    color: rgb(22, 22, 22);
+ }
+
+ /*Footer*/
+ .bgFooter{
+background-color: rgb(49, 49, 49);
+text-align: center;
+padding: 10px;
+ }
