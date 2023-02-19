@@ -40,7 +40,12 @@ background: linear-gradient(360deg, rgba(166,166,166,1) 41%, rgba(0,212,255,1) 1
 
 /*sobreNosotros*/
 
-.
+
+.fondo{
+    
+    background: rgb(18,18,18);
+    background: linear-gradient(110deg, rgba(18,18,18,1) 11%, rgba(162,39,15,0.9108018207282913) 46%, rgba(196,38,17,0.9472163865546218) 66%, rgba(65,66,69,0.48783263305322133) 94%);
+}
 
 
 
