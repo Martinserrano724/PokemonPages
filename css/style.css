@@ -1,3 +1,13 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    min-height: 100vh;
+
+}
+
 /*banner*/
 .imgBanner{
     min-height: 200px;
@@ -41,17 +51,27 @@ background: linear-gradient(360deg, rgba(166,166,166,1) 41%, rgba(0,212,255,1) 1
 /*sobreNosotros*/
 
 
-.fondo{
+.titulo{
+    text-align: center;
+    color:black;
+    font-size: 45px;
     
-    background: rgb(18,18,18);
-    background: linear-gradient(110deg, rgba(18,18,18,1) 11%, rgba(162,39,15,0.9108018207282913) 46%, rgba(196,38,17,0.9472163865546218) 66%, rgba(65,66,69,0.48783263305322133) 94%);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-
+.parrafo {
+    background: rgb(18,18,18);
+    background: linear-gradient(110deg, rgba(18,18,18,1) 11%, rgba(162,39,15,0.9108018207282913) 46%, rgba(196,38,17,0.9472163865546218) 66%, rgba(65,66,69,0.48783263305322133) 94%);
+    color:azure;
+    text-align: center;
+    padding: 5%;
+    font-size: 20px;
+}
 
  /*Footer*/
  .bgFooter{
-background-color: rgb(49, 49, 49);
-text-align: center;
-padding: 10px;
+    background-color: rgb(49, 49, 49);
+    text-align: center;
+    padding: 10px;
+    
  }
