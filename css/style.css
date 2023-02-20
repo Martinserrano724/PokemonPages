@@ -1,0 +1,84 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    min-height: 100vh;
+
+}
+
+/*banner*/
+.imgBanner{
+    min-height: 200px;
+    max-height: 400px;
+    object-fit: cover;
+}
+.containerImgBanner{
+width: 100%;
+
+}
+
+/*card pokemons*/
+.cardTamanio{
+    width: 250px;
+}
+.bgPlanta{
+background-color: rgb(59, 252, 53);
+}
+.bgVeneno{
+background-color: rgb(162, 53, 252);
+}
+.bgFuego{
+    background-color: rgb(255, 92, 33);
+}
+.bgVolador{
+    color: black;
+    background: rgb(166,166,166);
+background: linear-gradient(360deg, rgba(166,166,166,1) 41%, rgba(0,212,255,1) 100%);   
+}
+.bgAgua{
+   background-color: rgb(4, 127, 228);  
+}
+.bgBicho{
+    background-color: rgb(43, 173, 54);  
+ }
+.bgNormal{
+    background-color: rgb(151, 151, 151);  
+    color: rgb(22, 22, 22);
+ }
+
+/*sobreNosotros*/
+
+
+.titulo{
+    text-align: center;
+    background: rgb(18,18,18);
+    background: linear-gradient(110deg, rgb(39, 38, 38) 19%, rgba(189, 30, 30, 0.911) 50%, rgba(166,35,18,0.9472163865546218) 76%, rgba(109, 110, 114, 0.488) 94%);
+    color:azure;
+    font-size: 45px;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.parrafo {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color:black;
+    font-weight: bolder;
+}
+
+#link {
+    text-decoration: none;
+    font-size: 30px;
+}
+
+ /*Footer*/
+ .bgFooter{
+    background-color: rgb(49, 49, 49);
+    text-align: center;
+    padding: 10px;
+    
+ }
