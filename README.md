@@ -28,3 +28,9 @@ este es un proyecto de una pagina para observar los distintos tipos de pokemones
 - Pagina principal(index)
 - Pagina de detalles de pokemon
 - Pagina sobre nosotros
+
+## Autores 👦👧
+1. Juan Toranzos
+1. Martin Serrano
+1. Roxania Gomez
+1. Sofia Gramajo
